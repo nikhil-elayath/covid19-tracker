@@ -85,3 +85,17 @@ body {
     margin-top: 20px;
   }
 }
+
+@media (max-width: 600px) {
+  .app__stats {
+    flex-direction: column;
+  }
+
+  .infoBox:not(:last-child) {
+    margin-bottom: 20px;
+  }
+
+  .infoBox {
+    margin-right: 0px;
+  }
+}
