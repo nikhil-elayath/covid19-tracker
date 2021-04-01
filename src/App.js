@@ -139,7 +139,7 @@ function App() {
           Developed By{" "}
           <a
             target="_blank"
-            href={"https://www.linkedin.com/in/nikhil-elayath-38b875117/"}
+            href={"https://github.com/nikhil-elayath/covid19-tracker"}
           >
             Nikhil Elayath
           </a>
