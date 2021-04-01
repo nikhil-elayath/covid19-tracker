@@ -139,9 +139,9 @@ function App() {
           Developed By{" "}
           <a
             target="_blank"
-            href={"https://www.linkedin.com/in/sudama-jaiswal"}
+            href={"https://www.linkedin.com/in/nikhil-elayath-38b875117/"}
           >
-            Sudama Jaiswal
+            Nikhil Elayath
           </a>
         </p>
       </footer>
