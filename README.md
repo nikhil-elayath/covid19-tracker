@@ -1,4 +1,4 @@
-Demo Link for Project: https://covid19-tracker-21e15.web.app/
+Demo Link for Project: https://covid-tracker-nikhil-9a9bd.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
